@@ -1,7 +1,7 @@
 # nlwu-html-css-js
 
  <p align="center">
-  <img alt="Logo NLW Expert - Rocketseat" src=".github/logo.png" width="200px" />
+  <img src="https://github.com/rocketseat-education/nlw-unite-html-css-js/blob/2ca321a8ad2810016edf91283b74fd43c6361ab3/.github/logo.png?raw=true" width="200px" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  <img src="https://github.com/rocketseat-education/nlw-unite-html-css-js/blob/2ca321a8ad2810016edf91283b74fd43c6361ab3/.github/preview.png" width="60%">
 </p>
 
 
